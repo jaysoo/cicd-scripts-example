@@ -1,0 +1,27 @@
+{
+  "name": "tmo-cicd-scripts-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaysoo/cicd-scripts-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaysoo/cicd-scripts-example/issues"
+  },
+  "homepage": "https://github.com/jaysoo/cicd-scripts-example#readme",
+  "dependencies": {
+    "axios": "0.19.0",
+    "colors": "1.4.0",
+    "common-tags": "1.8.0",
+    "prettier": "1.18.2",
+    "shelljs": "0.8.3",
+    "yargs": "14.2.0"
+  }
+}
